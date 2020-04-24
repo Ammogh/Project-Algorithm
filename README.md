@@ -1,2 +1,2 @@
-# Project-Algorithm
-Collision algorithm - X axis.
+# p5.play-boilerplate
+Boiler plate for p5.play
